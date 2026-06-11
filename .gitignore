@@ -1,0 +1,19 @@
+# Virtual Environment
+.venv/
+
+# VS Code Settings
+.vscode/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# SQLite Database
+password_history.db
+
+# Large Password Dictionary
+xato-net-10-million-passwords-1000000.txt
+
+# OS Files
+.DS_Store
+Thumbs.db
