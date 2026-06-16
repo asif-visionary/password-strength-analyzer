@@ -101,7 +101,7 @@ password-strength-analyzer/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/password-strength-analyzer.git
+git clone https://github.com/asif-visionary/password-strength-analyzer.git
 
 cd password-strength-analyzer
 ```
